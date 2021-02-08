@@ -1,0 +1,28 @@
+.card {
+    height: 100%;
+    transition: 0.3s;
+    padding: 30px;
+}
+
+.card:hover {
+    box-shadow: 1px 1px 20px 10px #eee;
+    transition: 0.3s;
+}
+
+a,
+a:hover {
+    color: #333333;
+    text-decoration: none;
+}
+
+#inputPage {
+    border-radius: 0;
+    border: none;
+    width: 40px;
+    border-bottom: 1px solid #333;
+    text-align: center;
+}
+
+.button {
+    margin-left: 15px;
+}
